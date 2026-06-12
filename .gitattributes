@@ -1,0 +1,3 @@
+registry.json -text
+*.minisig -text
+*.pub -text
